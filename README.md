@@ -1,10 +1,42 @@
 # BlankDAO (Draft 2.0)
 
-## *Developing Free DApps*
-
 BlankDAO is a social organization with an aim to break blockchain barriers on the road to decentralization by relying on real people instead of miners or stakeholders.
 
 After a decade since decentralization was initiated with Bitcoin we have come up with a solution that allows us to get rid of limitations of proof of work and stake which were mere vessels to prevent sybil attacks. The birth of [BrightID](https://www.brightid.org/) makes it possible to define DApps that can be sybil attack free without relying on POW or POS.
+
+
+## Table of Contents
+
+  * [**Goal**](#goal)
+  * [**Constitution**](#constitution)
+  * [**Tokens**](#tokens)
+  * [**Governance**](#governance)
+- [**New Possibilities**](#new-possibilities)
+  * [First Decentralized Ledger Based On Proof Of Uniqueness](#first-decentralized-ledger-based-on-proof-of-uniqueness)
+    + [High Security](#high-security)
+    + [Zero Fees](#zero-fees)
+    + [Decentralized Scalability](#decentralized-scalability)
+  * [Brand New Distribution Of Tokens](#brand-new-distribution-of-tokens)
+    + [Unchained Value](#unchained-value)
+    + [Incentivized Open Source Development](#incentivized-open-source-development)
+    + [Incentivized MarketPlace](#incentivized-marketplace)
+    + [Incentivized End Users](#incentivized-end-users)
+  * [New Financial Possibilities](#new-financial-possibilities)
+    + [Decentralized Exchange](#decentralized-exchange)
+    + [Reserve Banking](#reserve-banking)
+    + [Decentralized Credit Network](#decentralized-credit-network)
+- [**Genesis**](#genesis)
+  * [DAO](#dao)
+  * [Governance](#governance-1)
+  * [Tokens](#tokens-1)
+  * [Revenues](#revenues)
+  * [Expenditures](#expenditures)
+    + [Development](#development)
+    + [Public relations](#public-relations)
+    + [Expansion](#expansion)
+    + [Market Making](#market-making)
+- [**FAQ**](#faq)
+    + [DApps have zero fees, so what’s the utility of tokens in BlankDAO?](#dapps-have-zero-fees-so-whats-the-utility-of-tokens-in-blankdao)
 
 ## Goal
 
@@ -21,9 +53,7 @@ The goal in BlankDAO is to decentralize everything. It supports development for 
 The tokens in the organization are limited to 21 million, issued periodically similar to Bitcoin, and distributed among the following groups who contribute to the advancement of DApps:
 
 * Hosting providers
-
 * Open source developers
-
 * End users
 
 ## Governance

@@ -35,6 +35,7 @@ After a decade since decentralization was initiated with Bitcoin we have come up
     + [Public relations](#public-relations)
     + [Expansion](#expansion)
     + [Market Making](#market-making)
+  * [Token Pricing](#token-pricing)
 - [**FAQ**](#faq)
     + [DApps have zero fees, so what’s the utility of tokens in BlankDAO?](#dapps-have-zero-fees-so-whats-the-utility-of-tokens-in-blankdao)
 
@@ -182,8 +183,25 @@ A rewarding system is defined in the DAO that incentivizes certain tasks e.g. jo
 
 ### Market Making
 
-Upon the genesis point, half of the funds that are received by BlankDAO through the crowdsale will be used to prevent possible price falls to some extent. 
-By using that part of the funds, buy orders will be placed in the exchange to make it possible for investors to easily sell their tokens at a suitable price. Towards the end of the genesis period, the amount of saved funds that are used for buy orders will decrease gradually.
+Upon the genesis point, half of the revenues form a fund to support the price of tokens in possible bear markets. 
+The fund is used to place buy orders in the exchange to enable investors to easily sell their tokens at a suitable price.
+
+## Token Pricing
+
+BlankDAO has a simple mechanism for token pricing during the genesis period.
+
+The price constantly remains 1 DAI until 200K tokens are sold. During this period, BlankDAO only sells tokens without providing the option for buying them.
+
+Achieving the 200K goal results in 100K DAI as the fund for supporting the price.
+
+BlankDAO then starts using the fund for placing buy orders to buy tokens for 1 DAI each.
+
+From then on, every 1% increase in the fund increases tokens price by 1%.
+
+On the other hand, a 1% decrease in the fund results in a 1% decrease in the price.
+
+The balance of the fund at each point at the time is calculated by removing all DAI that is used for buying tokens from half the DAI that is received by selling tokens.
+
 
 # **FAQ**
 
